@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## CheckList
+1. Create a Pokémon search app using the Api’s from the below docs
+( https://pokeapi.co/docs/v2 )
+2. Create a form with following Two fields (Select: Pokémon Type, Input: Search)
+3. Display the list of Pokémon cards below the form
+4. The select box should have all the Pokémon types, which will filter the displayed list
+5. Entering the search term in the input will filter the Pokémon list
+6. On Click of any Pokémon card, the user will be redirected to another route/page
+which will have Pokémon details
+7. There will be a breadcrumb on the details page which will show the url path.
+(For example: Home -> PokemonName)
+8. The design must be responsive for mobile view
